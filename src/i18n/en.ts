@@ -26,10 +26,11 @@ export default {
     },
     tryItNow: 'It\'s Free! Try now',
     footer: {
-      copyright: 'Made with 💛 by <a href="https://github.com/Lruihao" class="font-semibold underline decoration-wavy underline-offset-4" target="_blank" rel="noreferrer">Lruihao</a>',
-      authorBlog: 'Checkout <a href="https://lruihao.cn/projects/" target="_blank" rel="noreferrer" class="text-purple-400 hover:text-pink-400">more cool stuff</a> I built',
+      copyright: 'Made with 💛 by <a href="https://nav8.top" class="font-semibold underline decoration-wavy underline-offset-4" target="_blank" rel="noreferrer">Lruihao</a>',
+
+      authorBlog: 'Checkout <a href="https://nav8.top" target="_blank" rel="noreferrer" class="text-purple-400 hover:text-pink-400">more cool stuff</a> I built',
     },
-    tweetText: 'type your thoughts here, Try https://coverview.lruihao.cn by @Lruihao',
+    tweetText: 'type your thoughts here, Try https://nav8.top by @NAV8.TOP',
   },
   faq: {
     title: 'Frequently Asked Questions',
