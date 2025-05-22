@@ -26,10 +26,10 @@ export default {
     },
     tryItNow: '免费！立即试用',
     footer: {
-      copyright: '为爱发电 💛 <a href="https://github.com/Lruihao" class="font-semibold underline decoration-wavy underline-offset-4" target="_blank" rel="noreferrer">Lruihao</a>',
-      authorBlog: '查看我的 <a href="https://lruihao.cn/projects/" target="_blank" rel="noreferrer" class="text-purple-400 hover:text-pink-400">其他作品</a>',
+      copyright: '为爱发电 💛 <a href="https://nav8.top" class="font-semibold underline decoration-wavy underline-offset-4" target="_blank" rel="noreferrer">外贸驿站</a>',
+      authorBlog: '查看我的 <a href="https://nav8.top/" target="_blank" rel="noreferrer" class="text-purple-400 hover:text-pink-400">其他作品</a>',
     },
-    tweetText: '在这里输入你的想法，试试 https://coverview.lruihao.cn by @Lruihao',
+    tweetText: '在这里输入你的想法，试试 https://fm.nav8.top by @外贸驿站',
   },
   faq: {
     title: '常见问题',
